@@ -1,2 +1,0 @@
-# aunal
-Personal repository
